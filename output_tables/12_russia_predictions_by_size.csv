@@ -1,0 +1,1252 @@
+port_name,year_month,harbor_size,predicted_log_trade_val
+Sankt-Peterburg,2017-01,Large,21.567505
+Sankt-Peterburg,2017-02,Large,21.48673
+Sankt-Peterburg,2017-03,Large,21.69472
+Sankt-Peterburg,2017-04,Large,21.921993
+Sankt-Peterburg,2017-05,Large,21.523432
+Sankt-Peterburg,2017-08,Large,21.71469
+Sankt-Peterburg,2017-09,Large,21.87841
+Sankt-Peterburg,2017-10,Large,21.90147
+Sankt-Peterburg,2017-11,Large,21.797537
+Sankt-Peterburg,2017-12,Large,21.71384
+Sankt-Peterburg,2018-01,Large,21.563633
+Sankt-Peterburg,2018-02,Large,21.963768
+Sankt-Peterburg,2018-03,Large,21.712505
+Sankt-Peterburg,2018-04,Large,21.551374
+Sankt-Peterburg,2018-05,Large,21.828964
+Sankt-Peterburg,2018-08,Large,21.864073
+Sankt-Peterburg,2018-09,Large,21.855734
+Sankt-Peterburg,2018-10,Large,22.034122
+Sankt-Peterburg,2018-11,Large,21.807394
+Sankt-Peterburg,2018-12,Large,21.793348
+Sankt-Peterburg,2019-01,Large,21.828108
+Sankt-Peterburg,2019-02,Large,21.40511
+Sankt-Peterburg,2019-03,Large,21.893661
+Sankt-Peterburg,2019-04,Large,21.551374
+Sankt-Peterburg,2019-05,Large,22.15305
+Sankt-Peterburg,2019-08,Large,21.862265
+Sankt-Peterburg,2019-09,Large,22.027407
+Sankt-Peterburg,2019-10,Large,21.994596
+Sankt-Peterburg,2019-11,Large,21.960413
+Sankt-Peterburg,2019-12,Large,22.069157
+Sankt-Peterburg,2020-01,Large,21.966211
+Sankt-Peterburg,2020-02,Large,22.089529
+Sankt-Peterburg,2020-03,Large,21.86841
+Sankt-Peterburg,2020-04,Large,21.71932
+Sankt-Peterburg,2020-05,Large,22.583172
+Sankt-Peterburg,2020-08,Large,21.867622
+Sankt-Peterburg,2020-09,Large,21.77958
+Sankt-Peterburg,2020-10,Large,21.858976
+Sankt-Peterburg,2020-11,Large,21.967018
+Sankt-Peterburg,2020-12,Large,21.975185
+Sankt-Peterburg,2021-01,Large,21.472637
+Sankt-Peterburg,2021-02,Large,21.5002
+Sankt-Peterburg,2021-03,Large,21.72636
+Sankt-Peterburg,2021-04,Large,21.766191
+Sankt-Peterburg,2021-08,Large,21.716625
+Sankt-Peterburg,2021-09,Large,21.914644
+Sankt-Peterburg,2021-10,Large,21.858976
+Sankt-Peterburg,2021-11,Large,21.664602
+Sankt-Peterburg,2021-12,Large,21.620974
+Sankt-Peterburg,2022-01,Large,21.410938
+Sankt-Peterburg,2022-02,Large,21.58208
+Sankt-Peterburg,2022-03,Large,21.778326
+Sankt-Peterburg,2022-04,Large,22.077106
+Sankt-Peterburg,2022-05,Large,22.134806
+Sankt-Peterburg,2022-08,Large,21.72636
+Sankt-Peterburg,2022-09,Large,21.848106
+Sankt-Peterburg,2022-10,Large,21.948273
+Sankt-Peterburg,2022-11,Large,21.963495
+Sankt-Peterburg,2022-12,Large,21.466423
+Sankt-Peterburg,2023-01,Large,21.912767
+Sankt-Peterburg,2023-02,Large,21.663692
+Sankt-Peterburg,2023-03,Large,21.640589
+Sankt-Peterburg,2023-04,Large,21.71469
+Sankt-Peterburg,2023-05,Large,21.701221
+Sankt-Peterburg,2023-08,Large,21.831215
+Sankt-Peterburg,2023-09,Large,22.080639
+Sankt-Peterburg,2023-10,Large,22.052979
+Sankt-Peterburg,2023-11,Large,21.974537
+Sankt-Peterburg,2023-12,Large,21.426418
+Sankt-Peterburg,2024-01,Large,21.789795
+Sankt-Peterburg,2024-02,Large,21.879267
+Sankt-Peterburg,2024-03,Large,21.783022
+Sankt-Peterburg,2024-04,Large,21.811865
+Sankt-Peterburg,2024-05,Large,21.746338
+Sankt-Peterburg,2024-08,Large,21.855734
+Sankt-Peterburg,2024-09,Large,22.06981
+Sankt-Peterburg,2024-10,Large,21.853416
+Sankt-Peterburg,2024-11,Large,21.866568
+Sankt-Peterburg,2024-12,Large,21.973898
+Novorossiysk,2017-01,Large,22.372616
+Novorossiysk,2017-02,Large,22.515972
+Novorossiysk,2017-03,Large,22.525135
+Novorossiysk,2017-04,Large,22.405561
+Novorossiysk,2017-05,Large,22.41003
+Novorossiysk,2017-06,Large,22.546537
+Novorossiysk,2017-07,Large,22.37644
+Novorossiysk,2017-08,Large,22.492186
+Novorossiysk,2017-09,Large,22.458584
+Novorossiysk,2017-10,Large,22.257175
+Novorossiysk,2017-11,Large,22.551975
+Novorossiysk,2017-12,Large,22.212103
+Novorossiysk,2018-01,Large,22.14808
+Novorossiysk,2018-02,Large,22.30287
+Novorossiysk,2018-03,Large,22.186771
+Novorossiysk,2018-04,Large,22.476954
+Novorossiysk,2018-05,Large,22.535736
+Novorossiysk,2018-06,Large,22.610308
+Novorossiysk,2018-07,Large,22.538061
+Novorossiysk,2018-08,Large,22.439083
+Novorossiysk,2018-09,Large,22.548683
+Novorossiysk,2018-10,Large,22.554945
+Novorossiysk,2018-11,Large,22.537523
+Novorossiysk,2018-12,Large,22.188017
+Novorossiysk,2019-01,Large,22.268618
+Novorossiysk,2019-02,Large,22.572077
+Novorossiysk,2019-03,Large,22.553495
+Novorossiysk,2019-04,Large,22.641449
+Novorossiysk,2019-05,Large,22.642963
+Novorossiysk,2019-06,Large,22.570377
+Novorossiysk,2019-07,Large,22.548159
+Novorossiysk,2019-08,Large,22.373932
+Novorossiysk,2019-09,Large,22.510733
+Novorossiysk,2019-10,Large,22.358162
+Novorossiysk,2019-11,Large,22.541103
+Novorossiysk,2019-12,Large,22.624525
+Novorossiysk,2020-01,Large,22.510845
+Novorossiysk,2020-02,Large,22.753847
+Novorossiysk,2020-03,Large,22.545502
+Novorossiysk,2020-04,Large,22.628645
+Novorossiysk,2020-05,Large,22.271843
+Novorossiysk,2020-06,Large,22.505705
+Novorossiysk,2020-07,Large,22.521828
+Novorossiysk,2020-08,Large,22.322666
+Novorossiysk,2020-09,Large,22.613289
+Novorossiysk,2020-10,Large,22.62825
+Novorossiysk,2020-11,Large,22.523653
+Novorossiysk,2020-12,Large,22.742523
+Novorossiysk,2021-01,Large,22.431171
+Novorossiysk,2021-02,Large,22.563606
+Novorossiysk,2021-03,Large,22.4545
+Novorossiysk,2021-04,Large,22.476654
+Novorossiysk,2021-05,Large,22.673813
+Novorossiysk,2021-06,Large,22.718746
+Novorossiysk,2021-07,Large,22.32872
+Novorossiysk,2021-08,Large,22.26195
+Novorossiysk,2021-09,Large,22.42466
+Novorossiysk,2021-10,Large,22.342667
+Novorossiysk,2021-11,Large,22.40209
+Novorossiysk,2021-12,Large,22.448092
+Novorossiysk,2022-01,Large,22.40942
+Novorossiysk,2022-02,Large,22.53618
+Novorossiysk,2022-03,Large,22.572605
+Novorossiysk,2022-04,Large,22.46543
+Novorossiysk,2022-05,Large,22.546041
+Novorossiysk,2022-06,Large,22.386332
+Novorossiysk,2022-07,Large,22.423689
+Novorossiysk,2022-08,Large,22.301487
+Novorossiysk,2022-09,Large,22.38979
+Novorossiysk,2022-10,Large,22.392817
+Novorossiysk,2022-11,Large,22.470388
+Novorossiysk,2022-12,Large,22.484083
+Novorossiysk,2023-01,Large,22.586031
+Novorossiysk,2023-02,Large,22.556046
+Novorossiysk,2023-03,Large,22.5514
+Novorossiysk,2023-04,Large,22.614647
+Novorossiysk,2023-05,Large,22.671583
+Novorossiysk,2023-06,Large,22.388996
+Novorossiysk,2023-07,Large,22.720158
+Novorossiysk,2023-08,Large,22.699429
+Novorossiysk,2023-09,Large,22.707647
+Novorossiysk,2023-10,Large,22.592377
+Novorossiysk,2023-11,Large,22.41165
+Novorossiysk,2023-12,Large,22.418919
+Novorossiysk,2024-01,Large,22.645699
+Novorossiysk,2024-02,Large,22.637468
+Novorossiysk,2024-03,Large,22.655533
+Novorossiysk,2024-04,Large,22.509325
+Novorossiysk,2024-05,Large,22.364656
+Novorossiysk,2024-06,Large,22.590624
+Novorossiysk,2024-07,Large,22.422306
+Novorossiysk,2024-08,Large,22.308693
+Novorossiysk,2024-09,Large,22.653257
+Novorossiysk,2024-10,Large,22.209045
+Novorossiysk,2024-11,Large,22.447124
+Novorossiysk,2024-12,Large,22.600584
+Vyborg,2017-01,Medium,17.224426
+Vyborg,2017-02,Medium,17.559174
+Vyborg,2017-03,Medium,17.435865
+Vyborg,2017-04,Medium,17.491674
+Vyborg,2017-05,Medium,17.538046
+Vyborg,2017-08,Medium,17.507053
+Vyborg,2017-09,Medium,17.602575
+Vyborg,2017-10,Medium,17.613268
+Vyborg,2017-11,Medium,17.331476
+Vyborg,2017-12,Medium,18.273567
+Vyborg,2018-01,Medium,17.579487
+Vyborg,2018-02,Medium,17.619318
+Vyborg,2018-03,Medium,17.684736
+Vyborg,2018-04,Medium,17.91294
+Vyborg,2018-05,Medium,18.080091
+Vyborg,2018-08,Medium,17.459917
+Vyborg,2018-09,Medium,17.731789
+Vyborg,2018-10,Medium,18.19681
+Vyborg,2018-11,Medium,17.799437
+Vyborg,2018-12,Medium,17.98086
+Vyborg,2019-01,Medium,17.387493
+Vyborg,2019-02,Medium,17.514069
+Vyborg,2019-03,Medium,18.113836
+Vyborg,2019-04,Medium,17.312853
+Vyborg,2019-05,Medium,17.715778
+Vyborg,2019-08,Medium,17.82699
+Vyborg,2019-09,Medium,17.54964
+Vyborg,2019-10,Medium,18.40031
+Vyborg,2019-11,Medium,18.564207
+Vyborg,2019-12,Medium,18.731394
+Vyborg,2020-01,Medium,18.229252
+Vyborg,2020-02,Medium,17.547462
+Vyborg,2020-03,Medium,18.046833
+Vyborg,2020-04,Medium,18.186472
+Vyborg,2020-08,Medium,17.81474
+Vyborg,2020-09,Medium,17.876846
+Vyborg,2020-10,Medium,18.366663
+Vyborg,2020-11,Medium,18.273548
+Vyborg,2020-12,Medium,18.398516
+Vyborg,2021-01,Medium,17.874144
+Vyborg,2021-02,Medium,17.336287
+Vyborg,2021-03,Medium,17.676714
+Vyborg,2021-04,Medium,17.242172
+Vyborg,2021-08,Medium,18.280815
+Vyborg,2021-09,Medium,17.876846
+Vyborg,2021-10,Medium,18.398302
+Vyborg,2021-11,Medium,18.074547
+Vyborg,2021-12,Medium,17.98786
+Vyborg,2022-01,Medium,17.332365
+Vyborg,2022-02,Medium,17.446075
+Vyborg,2022-03,Medium,17.744837
+Vyborg,2022-04,Medium,17.972631
+Vyborg,2022-05,Medium,17.930567
+Vyborg,2022-08,Medium,18.061634
+Vyborg,2022-09,Medium,17.894447
+Vyborg,2022-10,Medium,18.398302
+Vyborg,2022-11,Medium,17.35775
+Vyborg,2022-12,Medium,17.792746
+Vyborg,2023-01,Medium,17.511375
+Vyborg,2023-02,Medium,17.715435
+Vyborg,2023-03,Medium,17.597216
+Vyborg,2023-04,Medium,17.712963
+Vyborg,2023-08,Medium,18.03043
+Vyborg,2023-09,Medium,18.061634
+Vyborg,2023-10,Medium,18.564207
+Vyborg,2023-11,Medium,18.276728
+Vyborg,2023-12,Medium,17.478628
+Vyborg,2024-01,Medium,17.65904
+Vyborg,2024-02,Medium,17.708311
+Vyborg,2024-03,Medium,18.33325
+Vyborg,2024-04,Medium,18.726978
+Vyborg,2024-05,Medium,17.974087
+Vyborg,2024-08,Medium,18.322638
+Vyborg,2024-09,Medium,17.938644
+Vyborg,2024-10,Medium,18.950575
+Vyborg,2024-11,Medium,18.596357
+Vyborg,2024-12,Medium,17.246874
+Kaliningrad,2017-01,Medium,19.343878
+Kaliningrad,2017-02,Medium,19.363274
+Kaliningrad,2017-03,Medium,18.876184
+Kaliningrad,2017-04,Medium,19.509665
+Kaliningrad,2017-05,Medium,19.485617
+Kaliningrad,2017-07,Medium,19.157614
+Kaliningrad,2017-08,Medium,19.265877
+Kaliningrad,2017-09,Medium,18.560776
+Kaliningrad,2017-10,Medium,19.467974
+Kaliningrad,2017-11,Medium,19.443327
+Kaliningrad,2017-12,Medium,19.507042
+Kaliningrad,2018-01,Medium,19.525732
+Kaliningrad,2018-02,Medium,19.561274
+Kaliningrad,2018-03,Medium,19.682549
+Kaliningrad,2018-04,Medium,19.414425
+Kaliningrad,2018-05,Medium,19.027597
+Kaliningrad,2018-06,Medium,19.818155
+Kaliningrad,2018-07,Medium,19.330622
+Kaliningrad,2018-08,Medium,19.452288
+Kaliningrad,2018-09,Medium,19.411863
+Kaliningrad,2018-10,Medium,19.344019
+Kaliningrad,2018-11,Medium,19.772144
+Kaliningrad,2018-12,Medium,19.44156
+Kaliningrad,2019-01,Medium,19.971077
+Kaliningrad,2019-02,Medium,19.192068
+Kaliningrad,2019-03,Medium,19.266325
+Kaliningrad,2019-04,Medium,19.45811
+Kaliningrad,2019-05,Medium,19.454172
+Kaliningrad,2019-06,Medium,19.87848
+Kaliningrad,2019-07,Medium,19.406517
+Kaliningrad,2019-08,Medium,19.177446
+Kaliningrad,2019-09,Medium,19.385204
+Kaliningrad,2019-10,Medium,19.577942
+Kaliningrad,2019-11,Medium,19.541992
+Kaliningrad,2019-12,Medium,19.614391
+Kaliningrad,2020-01,Medium,16.420914
+Kaliningrad,2020-02,Medium,19.78058
+Kaliningrad,2020-03,Medium,19.519087
+Kaliningrad,2020-04,Medium,19.180698
+Kaliningrad,2020-05,Medium,19.229473
+Kaliningrad,2020-06,Medium,20.13846
+Kaliningrad,2020-07,Medium,19.543625
+Kaliningrad,2020-08,Medium,19.495565
+Kaliningrad,2020-09,Medium,19.652046
+Kaliningrad,2020-10,Medium,19.378765
+Kaliningrad,2020-11,Medium,19.712006
+Kaliningrad,2020-12,Medium,19.632904
+Kaliningrad,2021-01,Medium,19.703524
+Kaliningrad,2021-02,Medium,19.656818
+Kaliningrad,2021-03,Medium,19.474178
+Kaliningrad,2021-04,Medium,19.44135
+Kaliningrad,2021-05,Medium,19.568373
+Kaliningrad,2021-07,Medium,19.435364
+Kaliningrad,2021-08,Medium,19.486172
+Kaliningrad,2021-09,Medium,19.422684
+Kaliningrad,2021-10,Medium,19.403387
+Kaliningrad,2021-11,Medium,19.513563
+Kaliningrad,2021-12,Medium,20.074144
+Kaliningrad,2022-01,Medium,18.26464
+Kaliningrad,2022-02,Medium,19.424725
+Kaliningrad,2022-03,Medium,19.136349
+Kaliningrad,2022-04,Medium,19.202444
+Kaliningrad,2022-05,Medium,18.633595
+Kaliningrad,2022-06,Medium,19.246637
+Kaliningrad,2022-07,Medium,18.859646
+Kaliningrad,2022-08,Medium,19.468437
+Kaliningrad,2022-09,Medium,18.990726
+Kaliningrad,2022-10,Medium,19.7443
+Kaliningrad,2022-11,Medium,19.24777
+Kaliningrad,2022-12,Medium,18.88747
+Kaliningrad,2023-01,Medium,16.359896
+Kaliningrad,2023-02,Medium,18.911654
+Kaliningrad,2023-03,Medium,19.521437
+Kaliningrad,2023-04,Medium,18.912382
+Kaliningrad,2023-05,Medium,19.436182
+Kaliningrad,2023-06,Medium,18.91819
+Kaliningrad,2023-07,Medium,19.729603
+Kaliningrad,2023-08,Medium,18.986053
+Kaliningrad,2023-09,Medium,19.346624
+Kaliningrad,2023-10,Medium,19.701757
+Kaliningrad,2023-11,Medium,19.316021
+Kaliningrad,2023-12,Medium,19.319592
+Kaliningrad,2024-01,Medium,18.857542
+Kaliningrad,2024-02,Medium,19.665056
+Kaliningrad,2024-03,Medium,18.745905
+Kaliningrad,2024-04,Medium,19.394985
+Kaliningrad,2024-05,Medium,18.901012
+Kaliningrad,2024-07,Medium,19.280056
+Kaliningrad,2024-08,Medium,19.169703
+Kaliningrad,2024-09,Medium,18.745825
+Kaliningrad,2024-10,Medium,19.252739
+Kaliningrad,2024-11,Medium,19.434671
+Kaliningrad,2024-12,Medium,19.455235
+De Kastri,2017-01,Medium,16.798422
+De Kastri,2017-04,Medium,17.310497
+De Kastri,2017-06,Medium,17.098503
+De Kastri,2017-07,Medium,17.098503
+De Kastri,2017-08,Medium,17.098503
+De Kastri,2017-09,Medium,17.098503
+De Kastri,2017-10,Medium,16.208393
+De Kastri,2018-05,Medium,16.220346
+De Kastri,2018-06,Medium,16.248386
+De Kastri,2018-07,Medium,16.429504
+De Kastri,2018-11,Medium,16.539694
+De Kastri,2019-01,Medium,17.078314
+De Kastri,2019-03,Medium,18.413504
+De Kastri,2019-04,Medium,16.78635
+De Kastri,2019-05,Medium,16.588766
+De Kastri,2019-06,Medium,15.698169
+De Kastri,2019-07,Medium,16.220346
+De Kastri,2019-08,Medium,16.220346
+De Kastri,2019-09,Medium,16.325335
+De Kastri,2019-10,Medium,16.88201
+De Kastri,2019-11,Medium,17.166409
+De Kastri,2019-12,Medium,17.39415
+De Kastri,2020-01,Medium,18.463781
+De Kastri,2020-02,Medium,17.867668
+De Kastri,2020-03,Medium,17.56797
+De Kastri,2020-04,Medium,16.36246
+De Kastri,2020-05,Medium,16.648754
+De Kastri,2020-06,Medium,17.098503
+De Kastri,2020-09,Medium,16.88201
+De Kastri,2020-10,Medium,16.245777
+De Kastri,2020-11,Medium,17.015654
+De Kastri,2020-12,Medium,16.60469
+De Kastri,2021-01,Medium,17.380297
+De Kastri,2021-02,Medium,16.718088
+De Kastri,2021-03,Medium,17.308926
+De Kastri,2021-04,Medium,16.767239
+De Kastri,2021-05,Medium,17.098503
+De Kastri,2021-06,Medium,16.704304
+De Kastri,2021-07,Medium,17.56817
+De Kastri,2021-08,Medium,17.58783
+De Kastri,2021-12,Medium,18.253107
+De Kastri,2022-01,Medium,16.809008
+De Kastri,2022-04,Medium,17.32799
+De Kastri,2022-07,Medium,15.727948
+De Kastri,2022-09,Medium,15.938248
+De Kastri,2022-10,Medium,17.0509
+De Kastri,2022-11,Medium,17.478172
+De Kastri,2023-03,Medium,16.436766
+De Kastri,2023-04,Medium,17.45224
+De Kastri,2023-07,Medium,17.290718
+De Kastri,2023-08,Medium,17.384499
+De Kastri,2023-09,Medium,16.610544
+De Kastri,2023-10,Medium,16.800035
+De Kastri,2023-11,Medium,17.388437
+De Kastri,2023-12,Medium,17.459854
+De Kastri,2024-01,Medium,17.588417
+De Kastri,2024-02,Medium,18.886782
+De Kastri,2024-03,Medium,18.957878
+De Kastri,2024-04,Medium,16.854214
+De Kastri,2024-08,Medium,17.210638
+De Kastri,2024-09,Medium,17.242088
+De Kastri,2024-10,Medium,16.703547
+De Kastri,2024-11,Medium,17.13861
+De Kastri,2024-12,Medium,17.654877
+Gavan Vysotsk,2017-01,Small,17.356512
+Gavan Vysotsk,2017-02,Small,17.45242
+Gavan Vysotsk,2017-03,Small,17.135582
+Gavan Vysotsk,2017-04,Small,17.193048
+Gavan Vysotsk,2017-05,Small,17.45464
+Gavan Vysotsk,2017-08,Small,17.411757
+Gavan Vysotsk,2017-09,Small,17.418316
+Gavan Vysotsk,2017-10,Small,17.350327
+Gavan Vysotsk,2017-11,Small,17.403063
+Gavan Vysotsk,2017-12,Small,17.313725
+Gavan Vysotsk,2018-01,Small,17.46082
+Gavan Vysotsk,2018-02,Small,17.556225
+Gavan Vysotsk,2018-03,Small,17.578417
+Gavan Vysotsk,2018-04,Small,17.500427
+Gavan Vysotsk,2018-05,Small,17.459005
+Gavan Vysotsk,2018-08,Small,17.302393
+Gavan Vysotsk,2018-09,Small,17.391901
+Gavan Vysotsk,2018-10,Small,17.391901
+Gavan Vysotsk,2018-11,Small,17.397314
+Gavan Vysotsk,2018-12,Small,17.393492
+Gavan Vysotsk,2019-01,Small,17.467628
+Gavan Vysotsk,2019-02,Small,17.54249
+Gavan Vysotsk,2019-03,Small,17.601738
+Gavan Vysotsk,2019-04,Small,17.506073
+Gavan Vysotsk,2019-05,Small,17.50083
+Gavan Vysotsk,2019-08,Small,17.424519
+Gavan Vysotsk,2019-09,Small,17.3583
+Gavan Vysotsk,2019-10,Small,17.37114
+Gavan Vysotsk,2019-11,Small,17.321045
+Gavan Vysotsk,2019-12,Small,17.3678
+Gavan Vysotsk,2020-01,Small,17.3732
+Gavan Vysotsk,2020-02,Small,17.37436
+Gavan Vysotsk,2020-03,Small,17.333391
+Gavan Vysotsk,2020-04,Small,17.439241
+Gavan Vysotsk,2020-08,Small,17.37093
+Gavan Vysotsk,2020-09,Small,17.301096
+Gavan Vysotsk,2020-10,Small,17.391901
+Gavan Vysotsk,2020-11,Small,17.3732
+Gavan Vysotsk,2020-12,Small,17.377058
+Gavan Vysotsk,2021-01,Small,17.40186
+Gavan Vysotsk,2021-02,Small,17.529875
+Gavan Vysotsk,2021-03,Small,17.337362
+Gavan Vysotsk,2021-04,Small,17.342524
+Gavan Vysotsk,2021-05,Small,17.644413
+Gavan Vysotsk,2021-08,Small,17.384563
+Gavan Vysotsk,2021-09,Small,17.32736
+Gavan Vysotsk,2021-10,Small,17.313152
+Gavan Vysotsk,2021-11,Small,17.344177
+Gavan Vysotsk,2021-12,Small,17.61128
+Gavan Vysotsk,2022-01,Small,17.500084
+Gavan Vysotsk,2022-02,Small,17.295595
+Gavan Vysotsk,2022-03,Small,17.59008
+Gavan Vysotsk,2022-04,Small,17.429295
+Gavan Vysotsk,2022-05,Small,17.512606
+Gavan Vysotsk,2022-08,Small,17.419537
+Gavan Vysotsk,2022-09,Small,17.36013
+Gavan Vysotsk,2022-10,Small,17.312208
+Gavan Vysotsk,2022-11,Small,17.347046
+Gavan Vysotsk,2022-12,Small,17.425838
+Gavan Vysotsk,2023-01,Small,17.46848
+Gavan Vysotsk,2023-02,Small,17.479414
+Gavan Vysotsk,2023-03,Small,17.512615
+Gavan Vysotsk,2023-04,Small,17.429295
+Gavan Vysotsk,2023-08,Small,17.47345
+Gavan Vysotsk,2023-09,Small,17.414837
+Gavan Vysotsk,2023-10,Small,17.38224
+Gavan Vysotsk,2023-11,Small,17.409834
+Gavan Vysotsk,2023-12,Small,17.619713
+Gavan Vysotsk,2024-01,Small,17.39516
+Gavan Vysotsk,2024-02,Small,17.58409
+Gavan Vysotsk,2024-03,Small,17.331596
+Gavan Vysotsk,2024-04,Small,17.44709
+Gavan Vysotsk,2024-05,Small,17.434021
+Gavan Vysotsk,2024-08,Small,17.393492
+Gavan Vysotsk,2024-09,Small,17.437437
+Gavan Vysotsk,2024-10,Small,17.414124
+Gavan Vysotsk,2024-11,Small,17.414124
+Gavan Vysotsk,2024-12,Small,17.403187
+Kronshtadt,2017-01,Small,15.858792
+Kronshtadt,2017-02,Small,15.759294
+Kronshtadt,2017-03,Small,15.976833
+Kronshtadt,2017-04,Small,15.975103
+Kronshtadt,2017-05,Small,15.797837
+Kronshtadt,2017-08,Small,15.957289
+Kronshtadt,2017-09,Small,15.939238
+Kronshtadt,2017-10,Small,15.957289
+Kronshtadt,2017-11,Small,15.950888
+Kronshtadt,2017-12,Small,15.83053
+Kronshtadt,2018-01,Small,15.790821
+Kronshtadt,2018-02,Small,15.465197
+Kronshtadt,2018-03,Small,15.51531
+Kronshtadt,2018-04,Small,15.56526
+Kronshtadt,2018-05,Small,15.707193
+Kronshtadt,2018-08,Small,15.945639
+Kronshtadt,2018-09,Small,15.945639
+Kronshtadt,2018-10,Small,15.956703
+Kronshtadt,2018-11,Small,15.94422
+Kronshtadt,2018-12,Small,15.8318
+Kronshtadt,2019-01,Small,15.465197
+Kronshtadt,2019-02,Small,15.611923
+Kronshtadt,2019-03,Small,15.733959
+Kronshtadt,2019-04,Small,15.555838
+Kronshtadt,2019-05,Small,15.723146
+Kronshtadt,2019-08,Small,15.94199
+Kronshtadt,2019-09,Small,15.957289
+Kronshtadt,2019-10,Small,15.936174
+Kronshtadt,2019-11,Small,15.8669195
+Kronshtadt,2019-12,Small,15.823408
+Kronshtadt,2020-01,Small,15.859773
+Kronshtadt,2020-02,Small,15.806501
+Kronshtadt,2020-03,Small,15.698054
+Kronshtadt,2020-04,Small,15.79683
+Kronshtadt,2020-08,Small,15.942575
+Kronshtadt,2020-09,Small,15.986168
+Kronshtadt,2020-10,Small,15.95364
+Kronshtadt,2020-11,Small,15.957289
+Kronshtadt,2020-12,Small,15.7699585
+Kronshtadt,2021-01,Small,15.742589
+Kronshtadt,2021-02,Small,15.45355
+Kronshtadt,2021-03,Small,15.611923
+Kronshtadt,2021-04,Small,15.736794
+Kronshtadt,2021-05,Small,15.95137
+Kronshtadt,2021-08,Small,15.930925
+Kronshtadt,2021-09,Small,15.930925
+Kronshtadt,2021-10,Small,15.956703
+Kronshtadt,2021-11,Small,15.945639
+Kronshtadt,2021-12,Small,15.45355
+Kronshtadt,2022-01,Small,15.45355
+Kronshtadt,2022-02,Small,15.52696
+Kronshtadt,2022-03,Small,15.601189
+Kronshtadt,2022-04,Small,15.633369
+Kronshtadt,2022-05,Small,15.611861
+Kronshtadt,2022-08,Small,15.861192
+Kronshtadt,2022-09,Small,15.802719
+Kronshtadt,2022-10,Small,15.804058
+Kronshtadt,2022-11,Small,15.785154
+Kronshtadt,2022-12,Small,15.894408
+Kronshtadt,2023-01,Small,15.722349
+Kronshtadt,2023-02,Small,15.5282955
+Kronshtadt,2023-03,Small,15.51531
+Kronshtadt,2023-04,Small,15.77936
+Kronshtadt,2023-05,Small,15.600277
+Kronshtadt,2023-08,Small,15.774815
+Kronshtadt,2023-09,Small,15.893071
+Kronshtadt,2023-10,Small,15.939238
+Kronshtadt,2023-11,Small,15.745605
+Kronshtadt,2023-12,Small,15.600277
+Kronshtadt,2024-01,Small,15.45355
+Kronshtadt,2024-02,Small,15.51531
+Kronshtadt,2024-03,Small,15.923318
+Kronshtadt,2024-04,Small,15.802639
+Kronshtadt,2024-05,Small,15.691875
+Kronshtadt,2024-08,Small,15.915317
+Kronshtadt,2024-09,Small,15.802719
+Kronshtadt,2024-10,Small,15.883903
+Kronshtadt,2024-11,Small,15.784672
+Kronshtadt,2024-12,Small,15.77636
+Baltiysk,2017-02,Small,16.270594
+Baltiysk,2017-03,Small,16.305786
+Baltiysk,2017-04,Small,16.261488
+Baltiysk,2017-05,Small,16.278408
+Baltiysk,2017-06,Small,16.258268
+Baltiysk,2017-07,Small,16.266136
+Baltiysk,2017-08,Small,16.226503
+Baltiysk,2017-09,Small,16.160921
+Baltiysk,2017-10,Small,16.310553
+Baltiysk,2017-11,Small,16.295805
+Baltiysk,2017-12,Small,16.213999
+Baltiysk,2018-01,Small,16.343685
+Baltiysk,2018-02,Small,16.339115
+Baltiysk,2018-03,Small,16.341215
+Baltiysk,2018-04,Small,16.310848
+Baltiysk,2018-05,Small,16.305786
+Baltiysk,2018-06,Small,16.190424
+Baltiysk,2018-07,Small,16.365557
+Baltiysk,2018-08,Small,16.295382
+Baltiysk,2018-09,Small,16.365181
+Baltiysk,2018-10,Small,16.283077
+Baltiysk,2018-11,Small,16.307049
+Baltiysk,2018-12,Small,16.240921
+Baltiysk,2019-01,Small,16.35349
+Baltiysk,2019-02,Small,16.261545
+Baltiysk,2019-03,Small,16.30549
+Baltiysk,2019-04,Small,16.18291
+Baltiysk,2019-05,Small,16.224749
+Baltiysk,2019-07,Small,16.260511
+Baltiysk,2019-08,Small,16.358143
+Baltiysk,2019-09,Small,16.338879
+Baltiysk,2019-10,Small,16.202175
+Baltiysk,2019-11,Small,16.228197
+Baltiysk,2019-12,Small,16.21387
+Baltiysk,2020-01,Small,16.30549
+Baltiysk,2020-02,Small,16.30549
+Baltiysk,2020-03,Small,16.338879
+Baltiysk,2020-04,Small,16.283077
+Baltiysk,2020-05,Small,16.338879
+Baltiysk,2020-06,Small,16.41005
+Baltiysk,2020-07,Small,16.458303
+Baltiysk,2020-08,Small,16.010738
+Baltiysk,2020-09,Small,16.351183
+Baltiysk,2020-10,Small,16.226503
+Baltiysk,2020-11,Small,16.240921
+Baltiysk,2020-12,Small,16.231565
+Baltiysk,2021-01,Small,16.50946
+Baltiysk,2021-02,Small,16.340996
+Baltiysk,2021-03,Small,16.195215
+Baltiysk,2021-04,Small,16.338879
+Baltiysk,2021-05,Small,16.209425
+Baltiysk,2021-06,Small,16.367638
+Baltiysk,2021-07,Small,16.251774
+Baltiysk,2021-08,Small,16.351183
+Baltiysk,2021-10,Small,16.248163
+Baltiysk,2021-11,Small,16.317795
+Baltiysk,2021-12,Small,16.36581
+Baltiysk,2022-01,Small,16.263945
+Baltiysk,2022-02,Small,16.300716
+Baltiysk,2022-03,Small,16.255692
+Baltiysk,2022-04,Small,16.237501
+Baltiysk,2022-05,Small,16.241066
+Baltiysk,2022-06,Small,16.32415
+Baltiysk,2022-07,Small,16.41375
+Baltiysk,2022-08,Small,16.27565
+Baltiysk,2022-09,Small,16.243237
+Baltiysk,2022-10,Small,16.184944
+Baltiysk,2022-11,Small,16.277287
+Baltiysk,2022-12,Small,16.23189
+Baltiysk,2023-01,Small,16.2097
+Baltiysk,2023-02,Small,16.320192
+Baltiysk,2023-03,Small,16.291218
+Baltiysk,2023-04,Small,16.275026
+Baltiysk,2023-05,Small,16.237501
+Baltiysk,2023-06,Small,16.357634
+Baltiysk,2023-07,Small,16.383598
+Baltiysk,2023-08,Small,16.306612
+Baltiysk,2023-09,Small,16.353281
+Baltiysk,2023-10,Small,16.37996
+Baltiysk,2023-11,Small,16.416792
+Baltiysk,2023-12,Small,16.271887
+Baltiysk,2024-01,Small,16.381706
+Baltiysk,2024-02,Small,16.417519
+Baltiysk,2024-03,Small,16.210989
+Baltiysk,2024-04,Small,16.252314
+Baltiysk,2024-05,Small,16.305786
+Baltiysk,2024-07,Small,16.270594
+Baltiysk,2024-08,Small,16.27953
+Baltiysk,2024-09,Small,16.270594
+Baltiysk,2024-10,Small,16.370518
+Baltiysk,2024-11,Small,16.399817
+Baltiysk,2024-12,Small,16.504246
+Rostov-Na-Donu,2017-01,Small,17.491667
+Rostov-Na-Donu,2017-02,Small,17.505762
+Rostov-Na-Donu,2017-03,Small,17.497978
+Rostov-Na-Donu,2017-04,Small,17.505762
+Rostov-Na-Donu,2017-05,Small,17.505762
+Rostov-Na-Donu,2017-06,Small,17.49945
+Rostov-Na-Donu,2017-07,Small,17.491667
+Rostov-Na-Donu,2017-08,Small,17.46998
+Rostov-Na-Donu,2017-09,Small,17.380596
+Rostov-Na-Donu,2017-10,Small,17.49945
+Rostov-Na-Donu,2017-11,Small,17.633047
+Rostov-Na-Donu,2017-12,Small,18.02653
+Rostov-Na-Donu,2018-01,Small,17.51464
+Rostov-Na-Donu,2018-02,Small,18.006071
+Rostov-Na-Donu,2018-03,Small,17.505762
+Rostov-Na-Donu,2018-04,Small,17.505762
+Rostov-Na-Donu,2018-05,Small,17.497978
+Rostov-Na-Donu,2018-06,Small,17.497978
+Rostov-Na-Donu,2018-07,Small,17.48816
+Rostov-Na-Donu,2018-08,Small,17.497978
+Rostov-Na-Donu,2018-09,Small,17.491667
+Rostov-Na-Donu,2018-10,Small,18.025204
+Rostov-Na-Donu,2018-12,Small,17.491667
+Rostov-Na-Donu,2019-01,Small,17.64387
+Rostov-Na-Donu,2019-02,Small,17.497978
+Rostov-Na-Donu,2019-03,Small,18.030573
+Rostov-Na-Donu,2019-04,Small,18.047493
+Rostov-Na-Donu,2019-05,Small,18.047167
+Rostov-Na-Donu,2019-06,Small,18.032345
+Rostov-Na-Donu,2019-07,Small,17.893791
+Rostov-Na-Donu,2019-08,Small,18.019524
+Rostov-Na-Donu,2019-09,Small,18.040928
+Rostov-Na-Donu,2019-10,Small,18.023428
+Rostov-Na-Donu,2019-11,Small,18.040928
+Rostov-Na-Donu,2019-12,Small,18.047167
+Rostov-Na-Donu,2020-01,Small,18.054838
+Rostov-Na-Donu,2020-02,Small,18.052755
+Rostov-Na-Donu,2020-03,Small,18.040928
+Rostov-Na-Donu,2020-04,Small,18.032345
+Rostov-Na-Donu,2020-05,Small,18.047167
+Rostov-Na-Donu,2020-06,Small,18.040928
+Rostov-Na-Donu,2020-07,Small,18.050846
+Rostov-Na-Donu,2020-08,Small,18.012383
+Rostov-Na-Donu,2020-09,Small,18.032345
+Rostov-Na-Donu,2020-10,Small,18.052755
+Rostov-Na-Donu,2020-11,Small,18.040022
+Rostov-Na-Donu,2020-12,Small,18.06198
+Rostov-Na-Donu,2021-01,Small,18.052717
+Rostov-Na-Donu,2021-02,Small,18.04694
+Rostov-Na-Donu,2021-03,Small,18.037792
+Rostov-Na-Donu,2021-04,Small,18.06575
+Rostov-Na-Donu,2021-05,Small,18.0599
+Rostov-Na-Donu,2021-06,Small,18.040022
+Rostov-Na-Donu,2021-07,Small,18.040928
+Rostov-Na-Donu,2021-08,Small,18.040928
+Rostov-Na-Donu,2021-09,Small,18.040022
+Rostov-Na-Donu,2021-10,Small,18.030573
+Rostov-Na-Donu,2021-11,Small,18.0599
+Rostov-Na-Donu,2021-12,Small,18.049967
+Rostov-Na-Donu,2022-01,Small,18.040022
+Rostov-Na-Donu,2022-02,Small,18.047167
+Rostov-Na-Donu,2022-03,Small,18.041359
+Rostov-Na-Donu,2022-04,Small,18.047167
+Rostov-Na-Donu,2022-05,Small,18.054838
+Rostov-Na-Donu,2022-06,Small,18.06198
+Rostov-Na-Donu,2022-07,Small,18.023428
+Rostov-Na-Donu,2022-08,Small,18.030573
+Rostov-Na-Donu,2022-09,Small,18.0485
+Rostov-Na-Donu,2022-10,Small,18.0485
+Rostov-Na-Donu,2022-11,Small,18.040022
+Rostov-Na-Donu,2022-12,Small,18.054838
+Rostov-Na-Donu,2023-01,Small,18.0599
+Rostov-Na-Donu,2023-02,Small,18.233017
+Rostov-Na-Donu,2023-03,Small,18.048355
+Rostov-Na-Donu,2023-04,Small,18.034113
+Rostov-Na-Donu,2023-05,Small,18.034113
+Rostov-Na-Donu,2023-06,Small,18.06198
+Rostov-Na-Donu,2023-07,Small,18.0599
+Rostov-Na-Donu,2023-08,Small,18.033783
+Rostov-Na-Donu,2023-09,Small,18.040928
+Rostov-Na-Donu,2023-10,Small,18.047493
+Rostov-Na-Donu,2023-11,Small,17.921432
+Rostov-Na-Donu,2023-12,Small,18.037886
+Rostov-Na-Donu,2024-01,Small,18.296368
+Rostov-Na-Donu,2024-02,Small,18.040022
+Rostov-Na-Donu,2024-03,Small,18.041359
+Rostov-Na-Donu,2024-04,Small,18.069744
+Rostov-Na-Donu,2024-05,Small,18.033783
+Rostov-Na-Donu,2024-06,Small,18.054838
+Rostov-Na-Donu,2024-07,Small,18.023428
+Rostov-Na-Donu,2024-08,Small,18.036123
+Rostov-Na-Donu,2024-09,Small,18.023428
+Rostov-Na-Donu,2024-10,Small,17.838055
+Rostov-Na-Donu,2024-11,Small,18.060389
+Rostov-Na-Donu,2024-12,Small,18.049967
+Tuapse,2017-01,Small,18.702034
+Tuapse,2017-02,Small,18.452795
+Tuapse,2017-03,Small,18.547503
+Tuapse,2017-04,Small,18.574385
+Tuapse,2017-05,Small,18.734919
+Tuapse,2017-06,Small,18.746546
+Tuapse,2017-07,Small,18.73685
+Tuapse,2017-08,Small,18.721514
+Tuapse,2017-09,Small,18.742138
+Tuapse,2017-10,Small,18.716028
+Tuapse,2017-11,Small,18.738468
+Tuapse,2017-12,Small,18.946255
+Tuapse,2018-01,Small,18.50371
+Tuapse,2018-02,Small,18.44183
+Tuapse,2018-03,Small,18.458277
+Tuapse,2018-04,Small,18.924994
+Tuapse,2018-05,Small,18.76912
+Tuapse,2018-06,Small,18.73363
+Tuapse,2018-07,Small,18.719233
+Tuapse,2018-08,Small,18.734167
+Tuapse,2018-09,Small,18.765144
+Tuapse,2018-10,Small,18.751125
+Tuapse,2018-11,Small,18.934675
+Tuapse,2018-12,Small,18.912968
+Tuapse,2019-01,Small,18.698889
+Tuapse,2019-02,Small,18.769657
+Tuapse,2019-03,Small,18.467672
+Tuapse,2019-04,Small,18.819662
+Tuapse,2019-05,Small,18.73457
+Tuapse,2019-06,Small,18.721514
+Tuapse,2019-07,Small,18.73457
+Tuapse,2019-08,Small,18.756264
+Tuapse,2019-09,Small,18.73685
+Tuapse,2019-10,Small,19.01072
+Tuapse,2019-11,Small,19.01072
+Tuapse,2019-12,Small,19.01072
+Tuapse,2020-01,Small,18.99792
+Tuapse,2020-02,Small,19.020414
+Tuapse,2020-03,Small,18.928354
+Tuapse,2020-04,Small,18.971914
+Tuapse,2020-05,Small,19.01072
+Tuapse,2020-06,Small,18.847792
+Tuapse,2020-07,Small,18.868654
+Tuapse,2020-08,Small,18.951128
+Tuapse,2020-09,Small,18.949099
+Tuapse,2020-10,Small,18.859818
+Tuapse,2020-11,Small,18.95161
+Tuapse,2020-12,Small,18.95161
+Tuapse,2021-01,Small,18.688871
+Tuapse,2021-02,Small,19.013231
+Tuapse,2021-03,Small,18.57771
+Tuapse,2021-04,Small,18.852634
+Tuapse,2021-05,Small,18.91866
+Tuapse,2021-06,Small,18.868654
+Tuapse,2021-07,Small,18.850122
+Tuapse,2021-08,Small,18.83481
+Tuapse,2021-09,Small,18.771349
+Tuapse,2021-10,Small,18.842762
+Tuapse,2021-11,Small,18.602434
+Tuapse,2021-12,Small,18.691404
+Tuapse,2022-01,Small,18.13846
+Tuapse,2022-02,Small,18.573393
+Tuapse,2022-03,Small,18.672865
+Tuapse,2022-04,Small,18.58409
+Tuapse,2022-05,Small,19.01072
+Tuapse,2022-06,Small,18.784815
+Tuapse,2022-07,Small,18.949099
+Tuapse,2022-08,Small,18.949099
+Tuapse,2022-09,Small,18.652626
+Tuapse,2022-10,Small,19.01072
+Tuapse,2022-11,Small,18.656338
+Tuapse,2022-12,Small,18.77881
+Tuapse,2023-01,Small,18.795444
+Tuapse,2023-02,Small,18.772535
+Tuapse,2023-03,Small,18.7577
+Tuapse,2023-04,Small,19.01072
+Tuapse,2023-05,Small,18.784815
+Tuapse,2023-06,Small,19.01072
+Tuapse,2023-07,Small,18.784815
+Tuapse,2023-08,Small,18.993267
+Tuapse,2023-09,Small,18.784815
+Tuapse,2023-10,Small,18.968807
+Tuapse,2023-11,Small,18.71061
+Tuapse,2023-12,Small,18.679033
+Tuapse,2024-01,Small,18.766302
+Tuapse,2024-02,Small,18.646458
+Tuapse,2024-03,Small,18.922901
+Tuapse,2024-04,Small,18.853422
+Tuapse,2024-05,Small,18.706135
+Tuapse,2024-06,Small,18.8719
+Tuapse,2024-07,Small,18.853176
+Tuapse,2024-08,Small,18.846762
+Tuapse,2024-09,Small,18.596962
+Tuapse,2024-10,Small,18.58409
+Tuapse,2024-11,Small,18.833208
+Tuapse,2024-12,Small,18.17945
+Sovetskaya Gavan,2017-01,Small,16.934855
+Sovetskaya Gavan,2017-02,Small,16.928783
+Sovetskaya Gavan,2017-03,Small,16.832623
+Sovetskaya Gavan,2017-04,Small,16.757933
+Sovetskaya Gavan,2017-05,Small,16.468037
+Sovetskaya Gavan,2017-06,Small,16.727695
+Sovetskaya Gavan,2017-07,Small,16.491777
+Sovetskaya Gavan,2017-08,Small,16.718437
+Sovetskaya Gavan,2017-09,Small,16.453588
+Sovetskaya Gavan,2017-10,Small,16.763042
+Sovetskaya Gavan,2017-11,Small,16.683496
+Sovetskaya Gavan,2017-12,Small,16.918318
+Sovetskaya Gavan,2018-01,Small,16.959509
+Sovetskaya Gavan,2018-02,Small,16.951967
+Sovetskaya Gavan,2018-03,Small,16.942272
+Sovetskaya Gavan,2018-04,Small,16.843805
+Sovetskaya Gavan,2018-05,Small,16.770992
+Sovetskaya Gavan,2018-06,Small,16.46258
+Sovetskaya Gavan,2018-07,Small,16.811136
+Sovetskaya Gavan,2018-08,Small,16.502039
+Sovetskaya Gavan,2018-09,Small,16.741842
+Sovetskaya Gavan,2018-10,Small,16.4537
+Sovetskaya Gavan,2018-11,Small,16.473213
+Sovetskaya Gavan,2018-12,Small,16.47683
+Sovetskaya Gavan,2019-01,Small,16.612692
+Sovetskaya Gavan,2019-02,Small,16.767704
+Sovetskaya Gavan,2019-03,Small,16.8958
+Sovetskaya Gavan,2019-04,Small,16.562624
+Sovetskaya Gavan,2019-05,Small,16.864462
+Sovetskaya Gavan,2019-06,Small,16.727808
+Sovetskaya Gavan,2019-07,Small,16.783102
+Sovetskaya Gavan,2019-08,Small,16.821709
+Sovetskaya Gavan,2019-09,Small,16.49171
+Sovetskaya Gavan,2019-10,Small,16.757866
+Sovetskaya Gavan,2019-11,Small,16.683496
+Sovetskaya Gavan,2019-12,Small,17.036825
+Sovetskaya Gavan,2020-01,Small,16.987158
+Sovetskaya Gavan,2020-02,Small,16.951967
+Sovetskaya Gavan,2020-03,Small,16.646513
+Sovetskaya Gavan,2020-04,Small,16.769156
+Sovetskaya Gavan,2020-05,Small,16.795502
+Sovetskaya Gavan,2020-06,Small,16.837109
+Sovetskaya Gavan,2020-07,Small,16.682568
+Sovetskaya Gavan,2020-08,Small,16.63343
+Sovetskaya Gavan,2020-09,Small,16.73189
+Sovetskaya Gavan,2020-10,Small,16.433914
+Sovetskaya Gavan,2020-11,Small,16.54538
+Sovetskaya Gavan,2020-12,Small,16.519455
+Sovetskaya Gavan,2021-01,Small,16.96661
+Sovetskaya Gavan,2021-02,Small,16.974266
+Sovetskaya Gavan,2021-03,Small,16.913513
+Sovetskaya Gavan,2021-04,Small,16.45791
+Sovetskaya Gavan,2021-05,Small,16.738146
+Sovetskaya Gavan,2021-06,Small,16.736727
+Sovetskaya Gavan,2021-07,Small,16.743185
+Sovetskaya Gavan,2021-08,Small,16.829939
+Sovetskaya Gavan,2021-09,Small,16.415882
+Sovetskaya Gavan,2021-10,Small,16.759924
+Sovetskaya Gavan,2021-11,Small,16.777859
+Sovetskaya Gavan,2021-12,Small,17.044704
+Sovetskaya Gavan,2022-01,Small,17.046154
+Sovetskaya Gavan,2022-02,Small,17.021408
+Sovetskaya Gavan,2022-03,Small,16.958004
+Sovetskaya Gavan,2022-04,Small,16.837198
+Sovetskaya Gavan,2022-05,Small,16.808702
+Sovetskaya Gavan,2022-06,Small,16.75356
+Sovetskaya Gavan,2022-07,Small,16.706335
+Sovetskaya Gavan,2022-08,Small,16.81391
+Sovetskaya Gavan,2022-09,Small,16.748339
+Sovetskaya Gavan,2022-10,Small,16.8042
+Sovetskaya Gavan,2022-11,Small,16.856464
+Sovetskaya Gavan,2022-12,Small,17.051739
+Sovetskaya Gavan,2023-01,Small,17.044704
+Sovetskaya Gavan,2023-02,Small,17.019367
+Sovetskaya Gavan,2023-03,Small,16.902584
+Sovetskaya Gavan,2023-04,Small,16.823702
+Sovetskaya Gavan,2023-05,Small,16.829521
+Sovetskaya Gavan,2023-06,Small,16.827503
+Sovetskaya Gavan,2023-07,Small,16.82693
+Sovetskaya Gavan,2023-08,Small,16.822962
+Sovetskaya Gavan,2023-09,Small,16.837109
+Sovetskaya Gavan,2023-10,Small,16.801264
+Sovetskaya Gavan,2023-11,Small,17.00395
+Sovetskaya Gavan,2023-12,Small,17.064156
+Sovetskaya Gavan,2024-01,Small,17.03428
+Sovetskaya Gavan,2024-02,Small,17.03428
+Sovetskaya Gavan,2024-03,Small,16.970339
+Sovetskaya Gavan,2024-04,Small,16.827503
+Sovetskaya Gavan,2024-05,Small,16.852743
+Sovetskaya Gavan,2024-06,Small,16.739893
+Sovetskaya Gavan,2024-07,Small,16.868876
+Sovetskaya Gavan,2024-08,Small,16.829521
+Sovetskaya Gavan,2024-09,Small,16.78784
+Sovetskaya Gavan,2024-10,Small,16.802711
+Sovetskaya Gavan,2024-11,Small,16.959827
+Sovetskaya Gavan,2024-12,Small,17.051739
+Korsakov,2017-01,Small,16.23966
+Korsakov,2017-02,Small,16.238781
+Korsakov,2017-03,Small,16.411451
+Korsakov,2017-04,Small,16.35363
+Korsakov,2017-05,Small,16.388115
+Korsakov,2017-06,Small,16.369823
+Korsakov,2017-07,Small,16.375156
+Korsakov,2017-08,Small,16.375156
+Korsakov,2017-09,Small,16.388115
+Korsakov,2017-10,Small,16.326267
+Korsakov,2017-11,Small,16.333818
+Korsakov,2017-12,Small,16.305492
+Korsakov,2018-01,Small,16.284773
+Korsakov,2018-02,Small,16.455019
+Korsakov,2018-03,Small,16.288845
+Korsakov,2018-04,Small,16.547441
+Korsakov,2018-05,Small,17.01395
+Korsakov,2018-06,Small,17.027567
+Korsakov,2018-07,Small,16.391052
+Korsakov,2018-08,Small,16.358963
+Korsakov,2018-09,Small,16.326267
+Korsakov,2018-10,Small,16.375156
+Korsakov,2018-11,Small,16.375156
+Korsakov,2018-12,Small,16.25343
+Korsakov,2019-01,Small,16.291676
+Korsakov,2019-02,Small,16.405842
+Korsakov,2019-03,Small,16.317451
+Korsakov,2019-04,Small,16.375156
+Korsakov,2019-05,Small,16.384003
+Korsakov,2019-06,Small,16.518253
+Korsakov,2019-07,Small,16.34914
+Korsakov,2019-08,Small,16.34123
+Korsakov,2019-09,Small,16.358963
+Korsakov,2019-10,Small,16.326267
+Korsakov,2019-11,Small,16.252804
+Korsakov,2019-12,Small,16.497667
+Korsakov,2020-01,Small,16.275816
+Korsakov,2020-02,Small,16.420483
+Korsakov,2020-03,Small,16.283081
+Korsakov,2020-04,Small,16.356709
+Korsakov,2020-05,Small,16.306446
+Korsakov,2020-06,Small,17.03202
+Korsakov,2020-07,Small,16.382708
+Korsakov,2020-08,Small,16.337734
+Korsakov,2020-09,Small,16.375156
+Korsakov,2020-10,Small,16.366737
+Korsakov,2020-11,Small,16.32664
+Korsakov,2020-12,Small,16.288996
+Korsakov,2021-01,Small,16.40509
+Korsakov,2021-02,Small,16.274992
+Korsakov,2021-03,Small,16.300377
+Korsakov,2021-04,Small,16.359394
+Korsakov,2021-05,Small,16.425406
+Korsakov,2021-06,Small,16.366737
+Korsakov,2021-07,Small,16.375156
+Korsakov,2021-08,Small,16.350737
+Korsakov,2021-09,Small,16.826597
+Korsakov,2021-10,Small,16.085518
+Korsakov,2021-11,Small,16.821281
+Korsakov,2021-12,Small,16.520857
+Korsakov,2022-01,Small,16.326372
+Korsakov,2022-02,Small,16.441202
+Korsakov,2022-03,Small,16.27193
+Korsakov,2022-04,Small,16.73572
+Korsakov,2022-05,Small,16.641096
+Korsakov,2022-06,Small,16.326202
+Korsakov,2022-07,Small,16.546684
+Korsakov,2022-08,Small,16.358099
+Korsakov,2022-09,Small,16.311844
+Korsakov,2022-10,Small,16.310549
+Korsakov,2022-11,Small,16.357334
+Korsakov,2022-12,Small,16.495811
+Korsakov,2023-01,Small,16.425343
+Korsakov,2023-02,Small,16.425343
+Korsakov,2023-03,Small,16.467966
+Korsakov,2023-04,Small,16.556288
+Korsakov,2023-05,Small,16.637634
+Korsakov,2023-06,Small,16.32069
+Korsakov,2023-07,Small,16.519548
+Korsakov,2023-08,Small,16.470564
+Korsakov,2023-09,Small,17.041021
+Korsakov,2023-10,Small,16.441381
+Korsakov,2023-11,Small,16.69337
+Korsakov,2023-12,Small,16.35727
+Korsakov,2024-01,Small,16.410702
+Korsakov,2024-02,Small,16.418907
+Korsakov,2024-03,Small,16.405842
+Korsakov,2024-04,Small,16.467773
+Korsakov,2024-05,Small,16.519548
+Korsakov,2024-06,Small,16.373861
+Korsakov,2024-07,Small,16.36824
+Korsakov,2024-08,Small,16.44267
+Korsakov,2024-09,Small,16.509407
+Korsakov,2024-10,Small,16.43253
+Korsakov,2024-11,Small,16.599775
+Korsakov,2024-12,Small,16.374842
+Kholmsk,2017-01,Small,17.243837
+Kholmsk,2017-02,Small,17.271484
+Kholmsk,2017-03,Small,17.120327
+Kholmsk,2017-04,Small,17.005045
+Kholmsk,2017-05,Small,17.31114
+Kholmsk,2017-06,Small,17.03471
+Kholmsk,2017-07,Small,17.048557
+Kholmsk,2017-08,Small,17.098377
+Kholmsk,2017-09,Small,17.060085
+Kholmsk,2017-10,Small,17.03471
+Kholmsk,2017-11,Small,17.134155
+Kholmsk,2017-12,Small,17.141045
+Kholmsk,2018-01,Small,17.22235
+Kholmsk,2018-02,Small,17.108904
+Kholmsk,2018-03,Small,17.173872
+Kholmsk,2018-04,Small,17.08685
+Kholmsk,2018-05,Small,17.130348
+Kholmsk,2018-06,Small,17.050825
+Kholmsk,2018-07,Small,17.154518
+Kholmsk,2018-08,Small,17.086193
+Kholmsk,2018-09,Small,17.060085
+Kholmsk,2018-10,Small,17.042316
+Kholmsk,2018-11,Small,17.076029
+Kholmsk,2018-12,Small,17.218122
+Kholmsk,2019-01,Small,17.141045
+Kholmsk,2019-02,Small,17.080294
+Kholmsk,2019-03,Small,17.163637
+Kholmsk,2019-04,Small,17.013891
+Kholmsk,2019-05,Small,17.052011
+Kholmsk,2019-06,Small,17.042316
+Kholmsk,2019-07,Small,17.042316
+Kholmsk,2019-08,Small,17.011377
+Kholmsk,2019-09,Small,17.048557
+Kholmsk,2019-10,Small,17.05039
+Kholmsk,2019-11,Small,17.152298
+Kholmsk,2019-12,Small,17.121187
+Kholmsk,2020-01,Small,17.215708
+Kholmsk,2020-02,Small,17.147686
+Kholmsk,2020-03,Small,17.306852
+Kholmsk,2020-04,Small,17.042316
+Kholmsk,2020-05,Small,17.068932
+Kholmsk,2020-06,Small,17.052011
+Kholmsk,2020-07,Small,17.059237
+Kholmsk,2020-08,Small,17.059237
+Kholmsk,2020-09,Small,17.044405
+Kholmsk,2020-10,Small,17.059237
+Kholmsk,2020-11,Small,17.088682
+Kholmsk,2020-12,Small,17.180433
+Kholmsk,2021-01,Small,17.15628
+Kholmsk,2021-02,Small,17.228474
+Kholmsk,2021-03,Small,17.381384
+Kholmsk,2021-04,Small,17.05039
+Kholmsk,2021-05,Small,17.060085
+Kholmsk,2021-06,Small,17.03471
+Kholmsk,2021-07,Small,17.11258
+Kholmsk,2021-08,Small,17.237337
+Kholmsk,2021-09,Small,17.218914
+Kholmsk,2021-10,Small,17.05039
+Kholmsk,2021-11,Small,17.042316
+Kholmsk,2021-12,Small,17.19136
+Kholmsk,2022-01,Small,17.342173
+Kholmsk,2022-02,Small,17.184885
+Kholmsk,2022-03,Small,17.138361
+Kholmsk,2022-04,Small,17.088682
+Kholmsk,2022-05,Small,17.097528
+Kholmsk,2022-06,Small,17.03471
+Kholmsk,2022-07,Small,17.130348
+Kholmsk,2022-08,Small,17.082697
+Kholmsk,2022-09,Small,17.05039
+Kholmsk,2022-10,Small,17.163836
+Kholmsk,2022-11,Small,17.120327
+Kholmsk,2022-12,Small,17.117756
+Kholmsk,2023-01,Small,17.215708
+Kholmsk,2023-02,Small,17.10866
+Kholmsk,2023-03,Small,17.217632
+Kholmsk,2023-04,Small,17.058516
+Kholmsk,2023-05,Small,17.080608
+Kholmsk,2023-06,Small,17.11258
+Kholmsk,2023-07,Small,17.080608
+Kholmsk,2023-08,Small,17.08685
+Kholmsk,2023-09,Small,17.076029
+Kholmsk,2023-10,Small,17.120653
+Kholmsk,2023-11,Small,17.098377
+Kholmsk,2023-12,Small,17.085154
+Kholmsk,2024-01,Small,17.11352
+Kholmsk,2024-02,Small,17.10866
+Kholmsk,2024-03,Small,17.211561
+Kholmsk,2024-04,Small,17.080608
+Kholmsk,2024-05,Small,17.110746
+Kholmsk,2024-06,Small,17.04694
+Kholmsk,2024-07,Small,17.042316
+Kholmsk,2024-08,Small,17.042316
+Kholmsk,2024-09,Small,17.163836
+Kholmsk,2024-10,Small,17.05039
+Kholmsk,2024-11,Small,17.076029
+Kholmsk,2024-12,Small,17.09625
+Aleksandrovsk -Sakhalinskiy,2017-01,Small,17.43948
+Aleksandrovsk -Sakhalinskiy,2017-02,Small,17.294268
+Aleksandrovsk -Sakhalinskiy,2017-03,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2017-04,Small,17.256014
+Aleksandrovsk -Sakhalinskiy,2017-05,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2017-06,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2017-07,Small,17.256014
+Aleksandrovsk -Sakhalinskiy,2017-08,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2017-09,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2017-10,Small,17.283346
+Aleksandrovsk -Sakhalinskiy,2017-11,Small,17.254925
+Aleksandrovsk -Sakhalinskiy,2018-04,Small,17.256014
+Aleksandrovsk -Sakhalinskiy,2018-05,Small,17.268631
+Aleksandrovsk -Sakhalinskiy,2018-06,Small,17.250277
+Aleksandrovsk -Sakhalinskiy,2018-07,Small,17.250277
+Aleksandrovsk -Sakhalinskiy,2018-08,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2018-09,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2018-10,Small,17.256014
+Aleksandrovsk -Sakhalinskiy,2018-11,Small,17.256014
+Aleksandrovsk -Sakhalinskiy,2019-03,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2019-04,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2019-05,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2019-06,Small,17.250277
+Aleksandrovsk -Sakhalinskiy,2019-07,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2019-08,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2019-09,Small,17.256327
+Aleksandrovsk -Sakhalinskiy,2019-10,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2019-11,Small,17.256014
+Aleksandrovsk -Sakhalinskiy,2020-01,Small,17.292711
+Aleksandrovsk -Sakhalinskiy,2020-02,Small,17.322878
+Aleksandrovsk -Sakhalinskiy,2020-03,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2020-04,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2020-05,Small,17.380346
+Aleksandrovsk -Sakhalinskiy,2020-06,Small,17.380346
+Aleksandrovsk -Sakhalinskiy,2020-07,Small,17.268763
+Aleksandrovsk -Sakhalinskiy,2020-08,Small,17.256327
+Aleksandrovsk -Sakhalinskiy,2020-09,Small,17.256327
+Aleksandrovsk -Sakhalinskiy,2020-10,Small,17.290335
+Aleksandrovsk -Sakhalinskiy,2020-11,Small,17.256014
+Aleksandrovsk -Sakhalinskiy,2020-12,Small,17.274368
+Aleksandrovsk -Sakhalinskiy,2021-01,Small,17.286327
+Aleksandrovsk -Sakhalinskiy,2021-02,Small,17.24249
+Aleksandrovsk -Sakhalinskiy,2021-03,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2021-04,Small,17.256327
+Aleksandrovsk -Sakhalinskiy,2021-05,Small,17.256327
+Aleksandrovsk -Sakhalinskiy,2021-06,Small,17.30277
+Aleksandrovsk -Sakhalinskiy,2021-07,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2021-08,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2021-09,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2021-10,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2021-11,Small,17.256014
+Aleksandrovsk -Sakhalinskiy,2021-12,Small,17.262064
+Aleksandrovsk -Sakhalinskiy,2022-01,Small,17.359718
+Aleksandrovsk -Sakhalinskiy,2022-02,Small,17.394571
+Aleksandrovsk -Sakhalinskiy,2022-03,Small,17.308493
+Aleksandrovsk -Sakhalinskiy,2022-04,Small,17.341991
+Aleksandrovsk -Sakhalinskiy,2022-05,Small,17.363651
+Aleksandrovsk -Sakhalinskiy,2022-07,Small,17.124596
+Aleksandrovsk -Sakhalinskiy,2022-08,Small,17.393702
+Aleksandrovsk -Sakhalinskiy,2022-09,Small,17.359087
+Aleksandrovsk -Sakhalinskiy,2022-10,Small,17.440933
+Aleksandrovsk -Sakhalinskiy,2022-11,Small,17.346748
+Aleksandrovsk -Sakhalinskiy,2022-12,Small,17.092188
+Aleksandrovsk -Sakhalinskiy,2023-01,Small,17.477234
+Aleksandrovsk -Sakhalinskiy,2023-02,Small,17.417015
+Aleksandrovsk -Sakhalinskiy,2023-03,Small,17.3575
+Aleksandrovsk -Sakhalinskiy,2023-04,Small,17.369781
+Aleksandrovsk -Sakhalinskiy,2023-05,Small,17.341991
+Aleksandrovsk -Sakhalinskiy,2023-06,Small,17.377579
+Aleksandrovsk -Sakhalinskiy,2023-07,Small,17.36652
+Aleksandrovsk -Sakhalinskiy,2023-08,Small,17.359087
+Aleksandrovsk -Sakhalinskiy,2023-09,Small,17.359087
+Aleksandrovsk -Sakhalinskiy,2023-10,Small,17.328571
+Aleksandrovsk -Sakhalinskiy,2023-11,Small,17.3744
+Aleksandrovsk -Sakhalinskiy,2023-12,Small,17.171122
+Aleksandrovsk -Sakhalinskiy,2024-01,Small,17.40846
+Aleksandrovsk -Sakhalinskiy,2024-02,Small,17.156954
+Aleksandrovsk -Sakhalinskiy,2024-03,Small,17.441626
+Aleksandrovsk -Sakhalinskiy,2024-04,Small,17.024458
+Aleksandrovsk -Sakhalinskiy,2024-05,Small,17.328571
+Aleksandrovsk -Sakhalinskiy,2024-06,Small,17.440933
+Aleksandrovsk -Sakhalinskiy,2024-07,Small,17.367586
+Aleksandrovsk -Sakhalinskiy,2024-08,Small,17.359087
+Aleksandrovsk -Sakhalinskiy,2024-09,Small,17.359087
+Aleksandrovsk -Sakhalinskiy,2024-10,Small,17.346748
+Aleksandrovsk -Sakhalinskiy,2024-11,Small,17.136328
+Aleksandrovsk -Sakhalinskiy,2024-12,Small,17.381716
+Bukhta Nagayeva (Magadan),2017-02,Small,17.63807
+Bukhta Nagayeva (Magadan),2017-05,Small,17.677044
+Bukhta Nagayeva (Magadan),2017-09,Small,17.635391
+Bukhta Nagayeva (Magadan),2017-10,Small,17.653112
+Bukhta Nagayeva (Magadan),2018-05,Small,17.694035
+Bukhta Nagayeva (Magadan),2018-09,Small,17.614109
+Bukhta Nagayeva (Magadan),2018-10,Small,17.614109
+Bukhta Nagayeva (Magadan),2019-01,Small,17.665506
+Bukhta Nagayeva (Magadan),2019-02,Small,17.5775
+Bukhta Nagayeva (Magadan),2019-03,Small,17.681252
+Bukhta Nagayeva (Magadan),2019-05,Small,17.677044
+Bukhta Nagayeva (Magadan),2019-08,Small,17.627747
+Bukhta Nagayeva (Magadan),2019-12,Small,17.662722
+Bukhta Nagayeva (Magadan),2020-01,Small,17.599358
+Bukhta Nagayeva (Magadan),2020-02,Small,17.589804
+Bukhta Nagayeva (Magadan),2020-05,Small,17.666656
+Bukhta Nagayeva (Magadan),2020-12,Small,17.577633
+Bukhta Nagayeva (Magadan),2021-01,Small,17.652693
+Bukhta Nagayeva (Magadan),2021-04,Small,17.627747
+Bukhta Nagayeva (Magadan),2021-05,Small,17.645359
+Bukhta Nagayeva (Magadan),2021-09,Small,17.649029
+Bukhta Nagayeva (Magadan),2021-12,Small,17.691729
+Bukhta Nagayeva (Magadan),2022-02,Small,17.666218
+Bukhta Nagayeva (Magadan),2022-05,Small,17.683846
+Bukhta Nagayeva (Magadan),2022-12,Small,17.74627
+Bukhta Nagayeva (Magadan),2023-09,Small,17.641275
+Bukhta Nagayeva (Magadan),2024-02,Small,17.708353

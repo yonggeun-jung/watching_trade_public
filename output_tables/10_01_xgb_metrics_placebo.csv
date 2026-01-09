@@ -1,0 +1,2 @@
+model,n_train,n_test,test_period,r2,mae,rmse,mape,corr,best_params
+XGBoost_Placebo,4595,1970,2022-06 ~ 2024-12,-0.019395132228603895,1.844343523885837,2.3291422284237857,9.713932201985319,-0.025990333973196063,"{'n_estimators': 127, 'max_depth': 3, 'learning_rate': 0.014538021487431257, 'subsample': 0.8880354372040933, 'colsample_bytree': 0.972769220990333, 'min_child_weight': 8, 'reg_alpha': 0.37408044554796716, 'reg_lambda': 7.5551973918207254e-06, 'gamma': 1.0362482956817232e-05}"
