@@ -1,7 +1,7 @@
 """
 Extract Sentinel-1 SAR features
 """
-import ee                    # Earth Engine API (https://pypi.org/project/earthengine-api/)
+import ee                                  # Earth Engine API (https://pypi.org/project/earthengine-api/)
 import pandas as pd
 import numpy as np
 from datetime import datetime

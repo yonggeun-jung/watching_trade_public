@@ -12,7 +12,7 @@ import argparse
 import time
 
 
-GEE_PROJECT = "GET-YOUR-GEE-PROJECT-ID"      # Your GEE project ID (https://developers.google.com/earth-engine/guides/quickstart_python)
+GEE_PROJECT = "GET-YOUR-GEE-PROJECT-ID"       # Your GEE project ID (https://developers.google.com/earth-engine/guides/quickstart_python)
 BUFFER_RADIUS_M = 3000                        # AOI buffer radius in meters
 VIIRS_SCALE = 500                             # VIIRS spatial resolution in meters
 VIIRS_COLLECTION = "NASA/VIIRS/002/VNP46A2"

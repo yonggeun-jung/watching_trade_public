@@ -7,7 +7,7 @@ from io import BytesIO
 from pathlib import Path
 
 # Google Earth Engine 
-GEE_PROJECT = "ygjung91"               # Your GEE project ID (https://developers.google.com/earth-engine/guides/quickstart_python)
+GEE_PROJECT = "GET-YOUR-GEE-PROJECT-ID"      # Your GEE project ID (https://developers.google.com/earth-engine/guides/quickstart_python)
 ee.Initialize(project=GEE_PROJECT)
 
 # Coordinates of Los Angeles Port
