@@ -10,9 +10,9 @@ from pathlib import Path
 import argparse
 import time
 
-GEE_PROJECT = "ygjung91"     # Your GEE project ID (https://developers.google.com/earth-engine/guides/quickstart_python)
-BUFFER_RADIUS_M = 3000       # AOI buffer radius in meters
-S1_SCALE = 10                # Sentinel-1 spatial resolution in meters
+GEE_PROJECT = "GET-YOUR-GEE-PROJECT-ID"     # Your GEE project ID (https://developers.google.com/earth-engine/guides/quickstart_python)
+BUFFER_RADIUS_M = 3000                      # AOI buffer radius in meters
+S1_SCALE = 10                               # Sentinel-1 spatial resolution in meters
 
 
 def init_gee():
