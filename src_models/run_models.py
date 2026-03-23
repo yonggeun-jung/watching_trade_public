@@ -10,7 +10,9 @@ STEPS = [
     "watching_trade/src_models/07_xgb_wgt_NoPorts_LOO.py",
     "watching_trade/src_models/08_xgb_val_ports_LOO.py",
     "watching_trade/src_models/09_xgb_val_NoPorts_LOO.py",
-    "watching_trade/src_models/10_xgb_val_NoPort_placebo.py"]
+    "watching_trade/src_models/10_xgb_val_NoPort_placebo.py",
+    "watching_trade/src_models/11_xgb_wgt_OnlyPorts.py",
+    "watching_trade/src_models/12_xgb_val_OnlyPorts.py"]
 
 
 if __name__ == "__main__":

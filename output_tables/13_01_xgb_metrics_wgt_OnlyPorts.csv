@@ -1,0 +1,2 @@
+model,n_train,n_test,test_period,r2,mae,rmse,mape,corr,best_params
+XGBoost,4988,2139,2022-04 ~ 2024-12,0.9075295076571033,0.3751133765344847,0.667775979431935,2.146900791626037,0.9530107687585744,"{'n_estimators': 829, 'max_depth': 4, 'learning_rate': 0.09108332371593907, 'subsample': 0.500036706336555, 'colsample_bytree': 0.506616718557229, 'min_child_weight': 1, 'reg_alpha': 1.6797999440879177e-05, 'reg_lambda': 0.42620600616960214, 'gamma': 1.141412876030667e-06}"

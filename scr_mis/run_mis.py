@@ -7,7 +7,8 @@ STEPS = [
     "watching_trade/scr_mis/04_nowcasting_plots_wgt.py",
     "watching_trade/scr_mis/05_LOO_plots_val.py",
     "watching_trade/scr_mis/06_LOO_plots_wgt.py",
-    "watching_trade/scr_mis/07_russia_plot.py"]
+    "watching_trade/scr_mis/07_russia_plot.py",
+    "watching_trade/scr_mis/08_flow_chart.py"]
 
 
 if __name__ == "__main__":

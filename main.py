@@ -4,7 +4,8 @@ STEPS = [
     "watching_trade/src_data/run_data.py",     # If you don't need data processing, you can skip this step
     "watching_trade/src_models/run_models.py",
     "watching_trade/src_russia/run_russia.py",
-    "wwatching_trade/scr_mis/run_mis.py"]
+    "watching_trade/src_simulation/run_simulation.py",
+    "watching_trade/scr_mis/run_mis.py"]
 
 
 if __name__ == "__main__":
